@@ -1,6 +1,5 @@
 "use client";
 import {
-    animate,
     AnimationPlaybackControls,
     motion,
     useAnimate,
